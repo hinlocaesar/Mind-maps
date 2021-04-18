@@ -35,6 +35,9 @@
 <node CREATED="1618737271876" FOLDED="true" ID="ID_335968591" MODIFIED="1618737291175" TEXT="SSH into a server Recommended way">
 <node CREATED="1618737276848" ID="ID_1547712806" MODIFIED="1618737279408" TEXT="ssh-keygen -t rsa -b 4096 -C &quot;your_email@example.com&quot;"/>
 </node>
+<node CREATED="1618741078491" ID="ID_63957372" MODIFIED="1618741090950" TEXT="RUN ssh agent to start SSH on GIT BASH">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
 </node>
 </node>
 <node CREATED="1618723306731" ID="ID_1275976655" MODIFIED="1618723312083" POSITION="right" TEXT="Installation ">
