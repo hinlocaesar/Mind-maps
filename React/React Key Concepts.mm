@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1619142681829" ID="ID_1205744970" MODIFIED="1619143997290" TEXT="React Key Concepts">
+<node CREATED="1619142681829" ID="ID_1205744970" MODIFIED="1619179631466" TEXT="n">
 <node CREATED="1619142726447" ID="ID_440995836" MODIFIED="1619144316324" POSITION="right" TEXT="React Concepts">
 <node CREATED="1619143687579" ID="ID_180517984" MODIFIED="1619143930409" TEXT="1. Don&apos;t touch the DOM. I&apos;ll do it">
 <node CREATED="1619144149644" ID="ID_1858599058" MODIFIED="1619144170482" TEXT="Old way: using dom means imperative">
@@ -14,8 +14,7 @@
       Directly change individual parts of a page.<br />In response to user events.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1619144283360" ID="ID_299894986" MODIFIED="1619144294314" TEXT="Problem: Difficult to monitor events and ege cases"/>
 <node CREATED="1619144369587" ID="ID_548774058" MODIFIED="1619144399701" TEXT="Problem: Performance Bottle necks take a long time for dom changes to happen">
@@ -67,8 +66,7 @@
       React is designed around the concept of reusable components<br />&quot;can be share to aother part os oa page&quot;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1619145651795" ID="ID_40481593" MODIFIED="1619145663538" TEXT="Smaller components to build bigger components"/>
 <node CREATED="1619146039972" ID="ID_124173885" MODIFIED="1619146335626" TEXT="Basic flow">

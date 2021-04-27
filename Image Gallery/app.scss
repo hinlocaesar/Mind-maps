@@ -1,0 +1,9 @@
+.image_grid{
+    display:grid;
+    grid-template-columns: repeat(auto-fit,300px);
+
+}
+img{
+    width:300px;
+    height:300px;
+}

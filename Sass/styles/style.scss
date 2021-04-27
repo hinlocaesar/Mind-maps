@@ -1,0 +1,18 @@
+$primarybutton :red;
+@import './header';
+
+
+header{
+    background: lightblue;
+    @include flexSetting(red);
+
+}
+
+.contact{
+    button{
+        @include flexSetting(blue);
+    }
+}
+
+
+
